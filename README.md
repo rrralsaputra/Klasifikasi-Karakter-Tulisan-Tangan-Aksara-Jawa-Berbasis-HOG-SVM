@@ -215,61 +215,9 @@ CNN memberikan performa yang lebih baik dibandingkan HOG+SVM pada seluruh metrik
 * Matplotlib
 * Seaborn
 
----
 
-## 📁 Struktur Folder
 
-```text
-project/
-│
-├── dataset/
-│
-├── preprocessing/
-│
-├── augmentation/
-│
-├── hog_svm/
-│
-├── cnn/
-│
-├── models/
-│
-├── results/
-│
-├── notebooks/
-│
-├── README.md
-│
-└── requirements.txt
-```
 
----
-
-## 🚀 Cara Menjalankan Proyek
-
-### Clone Repository
-
-```bash
-git clone https://github.com/username/nama-repository.git
-```
-
-### Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### Jalankan Notebook
-
-```bash
-jupyter notebook
-```
-
-atau
-
-```bash
-jupyter lab
-```
 
 ---
 
